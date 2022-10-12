@@ -4,8 +4,8 @@ type Props = {
   name: string
 }
 
-function Greeting({ name }: Props) {
+function Aliados({ name }: Props) {
   return <div>Hey, {name}</div>
 }
 
-export default Greeting
+export default Aliados
